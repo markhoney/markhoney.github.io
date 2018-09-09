@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Mark Honeychurch',
 	description: 'Coder, Skeptic, Humanist',
+	dest: 'docs',
 	themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
